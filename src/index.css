@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    background-color: #3C3D37;
+}
+.completed_bg{
+    background-color: #32332e;
+}
+.navbg{
+    background: #1E201E;
+}
+.textcolor{
+    color: #ECDFCC;
+}
