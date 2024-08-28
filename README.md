@@ -1,8 +1,9 @@
-# React + Vite
+# DailyTask
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+DailyTask is a simple task management web application built using React. It allows users to add, edit, and delete tasks, with tasks being stored in the browser's localStorage.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- **Add Tasks**: Easily add new tasks to your daily list.
+- **Edit Tasks**: Modify existing tasks with just a click.
+- **Delete Tasks**: Remove tasks that are no longer needed.
+- **
