@@ -3,7 +3,7 @@ const Navbar = () => {
     <>
          <nav className=" navbg textcolor p-4">
                 <div className="logo">
-                    <a href="#" className="font-bold text-xl mx-8">Daily Task</a>
+                    <a href="#"><img className="scale-150 mx-2" src="/logo.png" alt="logo" width="46px" /></a>
                 </div>
             </nav>
     </>
